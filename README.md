@@ -6,8 +6,9 @@ Développeur à son compte, qui a signé plusieurs contrats de non divulgation, 
 - 😄 Pronoms: Il/Lui
 - 🌎 Ma page web: http://xavs.ca
 - 📫 Mon courriel: Allez voir sur mon site web
-- 🤔 Twitter: https://twitter.com/xavsworld
-- 🤔 Mastodon: <a rel="me" href="https://mas.to/@xavsworld">Mastodon</a>
+- 💬 <a rel="me" href="https://mas.to/@xavsworld">Mastodon</a>
+- <del>🤔 <a href="https://twitter.com/xavsworld/status/1621172021114671106" rel="nofollow noopener">Twitter</a></del>
+
 
 
 
@@ -20,5 +21,5 @@ _Freelance Programmer, who had signed few NDAs. Consequently, my work is not rea
 - 😄 _Pronouns: He/Him_
 - 🌎 _Website: http://xavs.ca_
 - 📫 _Email: See my website_
-- 🤔 Twitter: https://twitter.com/xavsworld
-- 🤔 Mastodon: <a rel="me" href="https://mas.to/@xavsworld">Mastodon</a>
+- 💬 <a href="https://mas.to/@xavsworld" rel="me">Mastodon</a>
+- <del>🤔 <a href="https://twitter.com/xavsworld/status/1621172021114671106" rel="nofollow noopener">Twitter</a></del>
